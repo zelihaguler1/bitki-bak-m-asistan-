@@ -1,0 +1,6 @@
+{
+  "name": "Filiz",
+  "description": "Yapay zeka destekli akıllı bitki tanılama, bakım takibi ve uzman sohbet uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
