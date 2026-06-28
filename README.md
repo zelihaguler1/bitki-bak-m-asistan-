@@ -4,22 +4,26 @@ Filiz, evinizdeki bitkilerin dilinden anlamanızı sağlayan, yapay zeka destekl
 👥 Geliştirici Bilgileri
 Adı Soyadı: Zeliha Güler
 Öğrenci No: 24010501013
-**GitHub Profili:** [github.com/zelihaguler1](https://github.com/zelihaguler1)
+GitHub Profili: github.com/zelihaguler1
 
 ✨ Öne Çıkan Özellikler
-Uygulama, bitkilerinizin tüm ihtiyaçlarını karşılamak üzere tasarlanmış modern bir bento-grid yapısına ve zengin özellik modüllerine sahiptir:
+Uygulama, bitkilerinizin tüm ihtiyaçlarını karşılamak üzere tasarlanmış modern bir bento-grid yapısına ve zengin özellik modüllerine sahiptir.
+
 🌿 Ana Sayfa (Home View):
 Hızlı durum paneli ve günlük tamamlanması gereken bakım görevleri listesi (Örn: sulama, gübreleme).
 Kolay bitki ekleme sihirbazı.
 Doğrudan bahçenizdeki bitkilere hızlı erişim kartları.
+
 📸 Akıllı Kamera Tarama (Scan View):
 Yapay zeka yardımıyla bitki fotoğraflarını tarayarak bitki türünü saniyeler içinde teşhis eder.
 Bitkinin sağlık durumunu analiz eder ve yapılması gereken acil eylemleri listeler.
 Tek tıklamayla taranan bitkiyi kişisel bahçenize ekleme imkanı sunar.
+
 💬 Yapay Zeka Destekli Sohbet (Chat View):
 Doğal dil işleme yeteneğiyle bitki uzmanı Filiz ile gerçek zamanlı sohbet edin.
 Hazır soru çiplerini (Sulamada altın kural, Deve tabanı bakımı vb.) kullanarak hızlı yanıtlar alın.
 Sorularınızı kapsamlı bir şekilde cevaplayan ve bitki sağlığı tavsiyeleri veren akıllı asistan.
+
 🏡 Detaylı Bahçem Paneli (My Garden View):
 Bitkinizin toprak nem seviyesini gösteren dinamik dairesel gösterge.
 Günlük/Haftalık bakım ve alarm takvimi.
